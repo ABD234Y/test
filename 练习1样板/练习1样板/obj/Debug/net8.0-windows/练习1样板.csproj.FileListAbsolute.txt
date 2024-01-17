@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.AssemblyInfo.cs
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.exe
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.deps.json
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.runtimeconfig.json
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.dll
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.pdb
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.Form1.resources
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.dll
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\refint\练习1样板.dll
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.pdb
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.genruntimeconfig.cache
+C:\Users\Admin\Desktop\test 代码\C#\练习1样板\练习1样板\obj\Debug\net8.0-windows\ref\练习1样板.dll
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.exe
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.deps.json
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.runtimeconfig.json
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.dll
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\bin\Debug\net8.0-windows\练习1样板.pdb
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.Form1.resources
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.csproj.GenerateResource.cache
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.AssemblyInfo.cs
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.dll
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\refint\练习1样板.dll
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.pdb
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\练习1样板.genruntimeconfig.cache
+C:\Users\User\Desktop\课程\C#\TEST\练习1样板\练习1样板\obj\Debug\net8.0-windows\ref\练习1样板.dll
